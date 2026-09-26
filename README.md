@@ -48,9 +48,7 @@ jupyter notebook bikeshare_forecasting.ipynb
 ```
 
 Dataset: [UCI Bike Sharing Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
-(Fanaee-T & Gama, 2013). Update the data path near the top of the notebook to point at your local copy.
-
-## Data note
+(Fanaee-T & Gama, 2013). 
 
 This analysis encodes `season` as 1=Spring, 2=Summer, 3=Fall, 4=Winter, which differs from the UCI
 repository's own documentation (1=Winter). That schema is kept consistent throughout — worth knowing
